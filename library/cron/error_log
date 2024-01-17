@@ -1,0 +1,6 @@
+[21-Feb-2022 14:06:26 Asia/Jakarta] PHP Notice:  Undefined variable: date in /home/kstorem1/public_html/library/cron/status-ppob.php on line 6
+[21-Feb-2022 14:06:26 Asia/Jakarta] PHP Notice:  Undefined variable: call in /home/kstorem1/public_html/library/cron/status-ppob.php on line 7
+[21-Feb-2022 14:06:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kstorem1/public_html/library/cron/status-ppob.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kstorem1/public_html/library/cron/status-ppob.php on line 7

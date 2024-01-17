@@ -1,0 +1,44 @@
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: out_data in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 26
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: out_data in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 26
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: out_data in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 26
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/webkedem/public_html/admin/report/profit.php on line 49
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 50
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: tr in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 31
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/webkedem/public_html/admin/report/profit.php on line 52
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/webkedem/public_html/admin/report/profit.php on line 63
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 64
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: tr in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 31
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/webkedem/public_html/admin/report/profit.php on line 66
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/webkedem/public_html/admin/report/profit.php on line 77
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 78
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 30
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Undefined variable: tr in /home/webkedem/public_html/library/shennboku.app/admin-report-profit.php on line 31
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/webkedem/public_html/admin/report/profit.php on line 80
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 92
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 93
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/admin/report/profit.php on line 94
+[21-Dec-2023 02:21:16 Asia/Jakarta] PHP Notice:  Undefined variable: out_deposit in /home/webkedem/public_html/admin/report/deposit.php on line 45
+[21-Dec-2023 02:21:16 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/webkedem/public_html/admin/report/deposit.php on line 45

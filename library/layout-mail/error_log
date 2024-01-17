@@ -1,0 +1,2 @@
+[20-Dec-2023 17:23:57 Asia/Jakarta] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/webkedem/public_html/library/function/csrf_token.php on line 6
+[20-Dec-2023 17:24:47 Asia/Jakarta] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/webkedem/public_html/library/function/csrf_token.php on line 6

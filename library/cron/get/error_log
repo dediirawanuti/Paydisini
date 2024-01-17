@@ -1,0 +1,1 @@
+[21-Feb-2022 12:56:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kstorem1/public_html/connect.php on line 2

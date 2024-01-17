@@ -1,0 +1,7 @@
+[22-Dec-2023 02:49:39 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 108
+[22-Dec-2023 02:49:39 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 109
+[22-Dec-2023 02:55:13 Asia/Jakarta] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/webkedem/public_html/library/function/csrf_token.php on line 6
+[22-Dec-2023 02:55:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 108
+[22-Dec-2023 02:55:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 109
+[22-Dec-2023 03:00:58 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 108
+[22-Dec-2023 03:00:58 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/webkedem/public_html/connect.php on line 109
